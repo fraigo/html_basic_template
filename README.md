@@ -11,4 +11,4 @@ Autor: Francisco Igor
 Preview
 ==========
 
-[Github HTML Preview](https://htmlpreview.github.io/?https://raw.githubusercontent.com/fraigo/html_template/master/index.html)
+[HTML Preview](https://fraigo.hithub.com/html_basic_template/)
